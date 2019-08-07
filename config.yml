@@ -1,0 +1,42 @@
+
+
+# Environment Variables
+corpus_path:
+checkpoint_path:
+train_path:
+val_path:
+test_path:
+token_path:
+
+
+
+
+
+
+
+
+
+
+
+
+corpus_path: "corpus"
+train_path: "data/train"
+val_path: "data/val"
+test_path: "data/test"
+
+token_path:
+
+
+
+
+
+
+
+
+
+
+
+ "data/voc"
+
+checkpoint_path:
+ "saved_models/uniquemodel"
